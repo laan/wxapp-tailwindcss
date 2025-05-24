@@ -1,0 +1,1 @@
+{"version":3,"file":"index.js","sources":["pages/index/index.vue?type=page"],"sourcesContent":["import MiniProgramPage from '/Users/yanji/Desktop/projects/agri_ums_app/test/pages/index/index.vue'\nwx.createPage(MiniProgramPage)"],"names":["MiniProgramPage"],"mappings":";;;;;;;;;AACA,GAAG,WAAWA,SAAe;"}
